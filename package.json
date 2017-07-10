@@ -1,6 +1,6 @@
 {
   "name": "three-dragcontrols",
-  "version": "0.0.1",
+  "version": "0.86.0",
   "description": "three.js DragControls",
   "main": "DragControls.js",
   "scripts": {

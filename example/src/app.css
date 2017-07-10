@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+
+/**
+ * Remove space below canvas element
+ * @url https://stackoverflow.com/questions/9878090/eliminate-ghost-margin-below-html5-canvas-element
+ */
+canvas {
+  vertical-align: bottom;
+}
