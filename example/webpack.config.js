@@ -14,7 +14,6 @@ module.exports = ({debug = false} = {}) => {
   if (!debug) {
     plugins.push(
       new webpack.optimize.UglifyJsPlugin({
-        sourceMap: 'source-map',
         compress: {
           warnings: false
         },
@@ -27,7 +26,7 @@ module.exports = ({debug = false} = {}) => {
 
   return {
     target: 'web',
-    devtool: 'source-map',
+    devtool: 'eval-source-map',
     entry: './src/app.js',
     output: {
       path: path.resolve(__dirname, 'www'),

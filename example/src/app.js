@@ -10,8 +10,9 @@ import {
   LightShadow,
   PCFShadowMap
 } from 'three';
-import './app.css';
 import DragControls from 'three-dragcontrols';
+
+import './app.css';
 
 let camera, scene, renderer;
 const objects = [];

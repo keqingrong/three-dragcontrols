@@ -4,7 +4,7 @@
   "description": "example",
   "main": "webpack.config.js",
   "scripts": {
-    "start": "webpack-dev-server --port 8000 --env.debug",
+    "start": "webpack-dev-server --port 8000 --env.debug --open",
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

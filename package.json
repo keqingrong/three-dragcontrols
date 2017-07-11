@@ -1,8 +1,8 @@
 {
   "name": "three-dragcontrols",
-  "version": "0.86.0",
+  "version": "0.86.1",
   "description": "three.js DragControls",
-  "main": "DragControls.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
