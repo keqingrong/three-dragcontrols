@@ -2,12 +2,15 @@
   "name": "three-dragcontrols",
   "version": "0.86.2",
   "description": "three.js DragControls",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "jsnext:main": "lib/index.module.js",
+  "module": "lib/index.module.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "files": [
-    "index.js"
+    "./lib/index.js",
+    "./lib/index.module.js"
   ],
   "repository": "keqingrong/three-dragcontrols",
   "keywords": [
@@ -20,6 +23,6 @@
   "author": "keqingrong <keqingrong1992@gmail.com> (https://keqingrong.github.io/)",
   "license": "MIT",
   "peerDependencies": {
-    "three": "~0.86.0"
+    "three": "~0.88.0"
   }
 }

@@ -12,7 +12,7 @@
   "author": "keqingrong <keqingrong1992@gmail.com> (https://keqingrong.github.io/)",
   "license": "MIT",
   "dependencies": {
-    "three": "^0.86.0",
+    "three": "^0.88.0",
     "three-dragcontrols": "latest"
   },
   "devDependencies": {
