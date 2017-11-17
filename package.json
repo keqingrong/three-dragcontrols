@@ -1,6 +1,6 @@
 {
   "name": "three-dragcontrols",
-  "version": "0.86.2",
+  "version": "0.88.0",
   "description": "three.js DragControls",
   "main": "lib/index.js",
   "jsnext:main": "lib/index.module.js",
