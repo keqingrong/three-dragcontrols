@@ -1,5 +1,7 @@
 # three-dragcontrols
 
+[![npm version](https://img.shields.io/npm/v/three-dragcontrols.svg)](https://www.npmjs.com/package/three-dragcontrols)
+
 ## Installation
 
 ```bash
